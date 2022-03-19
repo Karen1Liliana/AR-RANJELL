@@ -3,5 +3,5 @@ de la informacion.
 -teleinformatica
 -logistica
 -mercadeo
--industria creativa
--formacion complemental
+-
+-
